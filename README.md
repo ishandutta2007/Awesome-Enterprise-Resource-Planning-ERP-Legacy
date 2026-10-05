@@ -74,7 +74,7 @@ This repository tracks notable **legacy ERP platforms**, **cloud SaaS ERP soluti
 
 > **📊 Open-Source Reality**: Open-source ERP platforms provide mature, production-grade alternatives to proprietary lock-in. Stargazer badges link directly to each repository's stargazers page. ⭐
 
-| Repo 💻 | Description 📝 | Star Count 🌟 |
+| Repo 💻 | Description 📝 | Stars_Count 🌟 |
 | :--- | :--- | :--- |
 | **[Odoo Community](https://github.com/odoo/odoo)** | **Leading open-source business suite with 50,000+ modules.** Covers accounting, CRM, inventory, manufacturing, POS, and e-commerce. **LGPL-3.0** licensed. | [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers) |
 | **[ERPNext](https://github.com/frappe/erpnext)** | **100% open-source full-suite ERP built on Frappe Framework.** Includes financial accounting, HRM, inventory, CRM, payroll, and manufacturing with no commercial feature gating. **GPLv3** licensed. | [<img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/>](https://github.com/frappe/erpnext/stargazers) |
